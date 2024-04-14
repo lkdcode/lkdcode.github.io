@@ -10,9 +10,9 @@ body {
 
 a {
   color: $accent-color;
-
   &:hover {
     color: shade($accent-color, 25%);
+    color: #A52A2A !important;
   }
 }
 
@@ -49,7 +49,6 @@ blockquote {
 .taxonomy-index {
   a {
     border-bottom-color: $border-color;
-
     &:hover {
       color: $accent-color;
     }

@@ -8,6 +8,8 @@ tags:
 
 # Hi.
 
+안녕하세요.
+
 ```java
 class LKDCODE {
   public void message() {

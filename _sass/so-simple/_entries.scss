@@ -28,6 +28,7 @@
   font-style: italic;
   letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
+  color: #000000 !important;
 
   a {
     text-decoration: none;
@@ -99,10 +100,10 @@
     -webkit-box-ordinal-group: 4;
     -ms-flex-order: 3;
     order: 3;
-
     /* remove space after last child element */
     > *:last-child {
       margin-bottom: 0;
+      color: #236374 !important;
     }
   }
 

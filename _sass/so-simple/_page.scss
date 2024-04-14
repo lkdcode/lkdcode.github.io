@@ -114,6 +114,7 @@
   font-size: 1rem;
   font-weight: normal;
   text-transform: uppercase;
+  color: #236374 !important;
 
   @include breakpoint($large) {
     display: inline-block;
@@ -187,6 +188,7 @@
   margin: 0;
   padding: 0;
   font-size: 1rem;
+  color: #000000 !important;
 }
 
 .page-pagination-title {
