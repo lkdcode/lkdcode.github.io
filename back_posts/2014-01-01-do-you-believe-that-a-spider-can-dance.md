@@ -89,6 +89,16 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
+photo: /assets/img/uploads/profile.png
+
+![asdfsadf](/assets/img/uploads/profile.png)
+
+![image-center]({{ '/assets/img/uploads/profile.png' | absolute_url }}){: .align-left}
+
+![image-center]({{ '/assets/img/uploads/profile.png' | absolute_url }}){: .align-right}
+
+![image-center]({{ '/assets/img/uploads/profile.png' | absolute_url }}){: .align-center}
+
 <table>
   <thead>
     <tr>

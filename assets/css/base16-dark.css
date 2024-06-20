@@ -1,18 +1,15 @@
----
----
-
 .highlight table td { padding: 5px !important; }
 .highlight table pre { margin: 0 !important; }
 .highlight, .highlight .w {
   color: #d8d8d8 !important;
-  background-color: #303845 !important;
+  background-color: #181818 !important;
 }
 .highlight .err {
   color: #181818 !important;
   background-color: #ab4642 !important;
 }
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
-  color: #eff247 !important;
+  color: #585858 !important;
 }
 .highlight .cp {
   color: #f7ca88 !important;
@@ -83,54 +80,12 @@
 .highlight .no {
   color: #f7ca88 !important;
 }
-.highlight .nf {
-  color: #63bffc !important;
-}
-
 .highlight .na {
-  color: #63bffc !important;
+  color: #7cafc2 !important;
 }
-
-.highlight .nd {
-  color: #bd93f9 !important;
-}
-
 .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
   color: #a1b56c !important;
 }
 .highlight .ss {
   color: #a1b56c !important;
 }
-
-pre span {
-  line-height: 1.5rem !important;
-  font-family: "Consolas", "Menlo", monospace !important;
-}
-
-.highlight .nc {
-  color: #dbb97a !important;
-}
-
-.highlight .nl {
-  color: #92d69e !important;
-}
-
-.highlight .n {
-  color: #ffffff !important;
-}
-
-.highlight .s {
-  color: #ffffff !important;
-}
-
-@media (min-width: 37.5rem) {
-  .bar-header .get-theme {
-      display: none !important;
-  }
-}
-
-.bar-header .get-theme {
-  display: none;
-}
-
-@import "jekflix";

@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: lkdcode
+title: RepositoLee | lkdcode
+description: my-blog
 tags:
   - blog
   - template
@@ -13,28 +12,28 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  # - title: About
+  #   url: /about
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
+# email: newullr@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: lkdcode
 
 
 # Posts Settings
@@ -110,4 +109,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
