@@ -8,7 +8,9 @@ image: '/images/multi-filter/multi-filter.png'
 optimized_image: '/images/multi-filter/multi-filter.png'
 category: springSecurity
 tags: 
-    - spring-security
+    - spring-security-6
+    - multi filter
+    - http security
 author: lkdcode
 ---
 

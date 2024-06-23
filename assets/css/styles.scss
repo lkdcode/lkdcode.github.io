@@ -130,7 +130,7 @@ pre span {
 }
 
 .bar-header .get-theme {
-  display: none;
+  display: none !important;
 }
 
 @import "jekflix";
