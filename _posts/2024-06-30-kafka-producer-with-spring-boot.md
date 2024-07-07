@@ -1,8 +1,8 @@
 ---
 date: 2024-06-30 07:16:23
 layout: post
-title: "kafka-producer-with-spring-boot"
-subtitle: 카프카 프로듀서 기본 개념
+title: "카프카 프로듀서 기본 개요"
+subtitle: 카프카 프로듀서 기본 개요
 description: 카프카에서 메시지(이벤트)를 발송하는 역할을 수행하는 `producer` 에 대해 간략하게 알아본다.
 image: '/images/kafka-producer/kafka-producer-thumbnail.png'
 optimized_image: '/images/kafka-producer/kafka-producer-thumbnail.png'
