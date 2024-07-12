@@ -16,7 +16,9 @@ paginate: false
 ---
 
 ![image-center]({{ '/images/spring-cloud-gateway/시작 및 route/scg2-1.png' | absolute_url }}){: .align-center}
+
 # 의존성
+
 - gradle
 
 ```shell
