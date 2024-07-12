@@ -3,7 +3,7 @@
   top: rem(30px);
 
   @include media(">=sm") {
-    top: rem(50px);
+    top: rem(30px);
   }
 }
 
@@ -621,7 +621,7 @@
   .tags {
     @include center(rem(800px));
     @include mainFont(400);
-    font-size: rem(18px);
+    font-size: rem(14px);
     margin: 0 auto rem(29px);
     margin-top: rem(30px);
     letter-spacing: 0.025rem;
