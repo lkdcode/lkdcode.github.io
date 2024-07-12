@@ -1,14 +1,14 @@
 ---
 layout: page
-menu: false
+menu: true
 date: '2020-02-27 01:53:59'
 title: lkdcode
-description: 하이하이
+description: lkdcode
 permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
-# About
+# RepositoLee
 
-저는 백엔드 개발자용
+되면 한다

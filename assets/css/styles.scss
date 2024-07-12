@@ -123,14 +123,4 @@ pre span {
   color: #ffffff !important;
 }
 
-@media (min-width: 37.5rem) {
-  .bar-header .get-theme {
-      display: none !important;
-  }
-}
-
-.bar-header .get-theme {
-  display: none !important;
-}
-
 @import "jekflix";

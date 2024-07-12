@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12 13:03:24
 layout: post
-title: "spring-cloud-gateway 시작 및 Route"
+title: "Spring Cloud Gateway 시작 및 Route"
 subtitle: 대문은 위치를 안내해주지. 클래스로 커스터마이징까지!
 description: gateway 가 받은 요청은 각각의 micro-server 에 전달된다. 어떻게 설정할 수 있을까?
 image: '/images/spring-cloud-gateway/개요/scg-thumb2.png'

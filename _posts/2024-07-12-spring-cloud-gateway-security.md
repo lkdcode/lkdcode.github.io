@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12 13:32:14
 layout: post
-title: "spring-cloud-gateway security"
+title: "Spring Cloud Gateway security"
 subtitle: 게이트웨이에 시큐리티 설정하기
 description: 도메인별로 시큐리티 설정을 분리할 수 있다. spring-security-6 의 다중필터처럼 적용해보자
 image: '/images/spring-cloud-gateway/개요/scg-thumb2.png'

@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12 13:22:16
 layout: post
-title: "spring-cloud-gateway Filter"
+title: "Spring Cloud Gateway Filter"
 subtitle: 요청에서 응답까지 필터를 세워보자
 description: gateway 의 필터를 활용해 다양한 필터들을 활용해보자
 image: '/images/spring-cloud-gateway/개요/scg-thumb2.png'

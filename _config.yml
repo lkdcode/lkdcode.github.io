@@ -12,23 +12,25 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  # - title: About
-  #   url: /about
-  # - title: Contact
-  #   url: /contact
+  - title: About
+    url: /about
+  - title: Tag
+    url: /tags
+  - title: Contact
+    url: /contact
   # - title: Feed
   #   url: /feed.xml
-# email: newullr@gmail.com
+email: newullr@gmail.com
 # See: https://disqus.com/
-# disqus_username: disqus_username
+disqus_username: lkdcode-github-io
 # Contact Form Setting
-# See: https://formspree.io/
-# formspree_form_id: formspree_form_id
+See: https://formspree.io/f/
+formspree_form_id: mvgpgkkk
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: lkdcode
 # facebook_username: facebook_username
 # twitter_username: twitter_username
 # instagram_username: instagram_username
@@ -40,14 +42,14 @@ github_username: github_username
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ko"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
