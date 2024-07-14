@@ -1,8 +1,8 @@
 ---
-date: 2024-07-14 11:03:08
+date: 2024-07-14 01:03:08
 layout: post
 title: "Spring Cache 간단 사용 (AOP)"
-subtitle: 주요 어노테이션들의 속성을 알아보자
+subtitle: 주요 어노테이션들의 속성을 알아보자. AOP
 description: 어노테이션의 속성만 알아도 꽤나 요긴하게 사용할 수 있다. Spring Cache 를 사용하기 위한 어노테이션들을 알아본다. 그리고 주의할 점은 AOP 를 알아야 하는 것!
 image: '/images/cache/cache-back.png'
 optimized_image: '/images/cache/cache-back.png'
