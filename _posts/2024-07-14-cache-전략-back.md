@@ -1,5 +1,5 @@
 ---
-date: 2024-07-14 01:26:34
+date: 2024-07-14 00:26:34
 layout: post
 title: "Cache 전략"
 subtitle: 캐시를 잘 사용하면 좋다.
