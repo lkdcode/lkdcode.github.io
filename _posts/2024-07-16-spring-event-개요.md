@@ -6,11 +6,10 @@ subtitle: Event 로 의존성을 끊어보자!
 description: 각각의 클래스들이 얽히고 섥힐 때 추가 기능은 의존성을 더욱 복잡하게 만든다. 이러한 의존성을 이벤트로 해소할 수 있다.
 image: '/images/spring-event/개요/spring-event-back.png'
 optimized_image: '/images/spring-event/개요/spring-event-back.png'
-category: cache
+category: event
 tags: 
-  - cache
-  - spring cache
-  - AOP
+  - event
+  - spring event
 author: lkdcode
 paginate: false
 ---
