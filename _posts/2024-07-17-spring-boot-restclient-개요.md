@@ -15,7 +15,7 @@ author: lkdcode
 paginate: false
 ---
 
-Spring-Boot-Application 에서 외부 API 요청이 필요한 경우에 사용할 수 있다. 모던하고 직관적인 API 를 제공해 쉽게 HTTP 요청을 보낼 수 있다. [🔗RestClient-docs](https://docs.spring.io/spring-framework/reference/integration/rest-clients.html)  
+Spring-Boot-Application 에서 외부 API 요청이 필요한 경우에 사용할 수 있다. 모던하고 직관적인 API 를 제공해 쉽게 HTTP 요청을 보낼 수 있다.  [🔗RestClient-docs](https://docs.spring.io/spring-framework/reference/integration/rest-clients.html)  
 
 1. 동기식 클라이언트: 요청은 동기식이다.  
 2. 유연한 API: 직관적이고 읽기 쉬운 방식으로 HTTP 요청을 작성할 수 있다.  
