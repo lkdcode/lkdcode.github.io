@@ -2,17 +2,19 @@
 date: 2024-08-15 15:40:11
 layout: post
 title: "Spring-Boot-Test Context Cache"
-subtitle: 
-description: 
+subtitle: 테스트 코드에서 컨텍스트를 재활용해보자
+description: 테스트 중에 컨텍스트를 띄우는 테스트를 수행할 때 이를 재활용할 수 있다. 컨텍스트를 재활용할 수 있는 방법을 알아본다.
 image: '/images/spring-boot-test/spring-boot-test-back.png'
 optimized_image: '/images/spring-boot-test/spring-boot-test-back.png'
 category: spring-test-context-cache
 tags:
-author:
+  - test
+  - context
+author: lkdcode
 paginate: false
 ---
 
-테스트를 하다보면 여러 테스트들이 실행될 때마다 가끔씩 컨텍스트를 재로드한 후 테스트를 진행하는 경우가 있다. 기본적으로 설정이 같으면 재활용한다. 하지만 설정이 다르면 새로운 컨텍스트를 불러오게 되는데 이게 비용이다. 어떻게하면 이 비용을 줄일 수 있는지 알아보자.  
+테스트를 하다보면 여러 테스트들이 실행될 때마다 가끔씩 컨텍스트를 재로드한 후 테스트를 진행하는 경우가 있다. 기본적으로 설정이 같으면 재활용한다. 하지만 설정이 다르면 새로운 컨텍스트를 불러오게 되는데 이게 비용이다. 시간, 메모리 사용 등 불필요한 재로드의 비용을 줄일 수 있는지 알아보자.  
 
 [🔗공식문서](https://docs.spring.io/spring-framework/reference/testing/testcontext-framework/ctx-management/caching.html)
 
